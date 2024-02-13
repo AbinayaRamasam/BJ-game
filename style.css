@@ -1,0 +1,31 @@
+body{
+    background-image: url(https://www.shutterstock.com/image-photo/luxury-green-pebble-tile-used-260nw-1923267806.jpg);
+    text-align: center;
+    background-size: cover;
+}
+h1{
+    color: goldenrod;
+    font-size: 4em;
+}
+p{
+    color:white;
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
